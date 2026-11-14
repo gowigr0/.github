@@ -64,6 +64,7 @@
         <li>Projects showcase, MDX blog and contact section</li>
         <li>Next.js, TypeScript, Tailwind CSS</li>
       </ul>
+      <p><sub>Based on Naresh Khatri's open-source <a href="https://github.com/Naresh-Khatri/3d-portfolio">3d-portfolio</a> (MIT), customised by Gowigro.</sub></p>
       <p>
         <a href="https://cyberali-eng.github.io/gowigro-portfolio-template/"><b>▶ Live demo</b></a> ·
         <a href="https://github.com/CyberAli-eng/gowigro-portfolio-template">Source</a> ·
