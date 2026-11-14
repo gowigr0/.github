@@ -33,7 +33,7 @@
       <p>
         <a href="https://gowigr0.github.io/gowigro-gym-template/"><b>▶ Live demo</b></a> ·
         <a href="https://github.com/gowigr0/gowigro-gym-template">Source</a> ·
-        <a href="mailto:gowigro@gmail.com?subject=Gym%20website%20template"><b>Get this template</b></a>
+        <a href="mailto:alisabir97570@gmail.com?subject=Gym%20website%20template"><b>Get this template</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -49,7 +49,34 @@
       <p>
         <a href="https://gowigr0.github.io/gowigro-clinic-template/"><b>▶ Live demo</b></a> ·
         <a href="https://github.com/gowigr0/gowigro-clinic-template">Source</a> ·
-        <a href="mailto:gowigro@gmail.com?subject=Clinic%20website%20template"><b>Get this template</b></a>
+        <a href="mailto:alisabir97570@gmail.com?subject=Clinic%20website%20template"><b>Get this template</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cyberali-eng.github.io/gowigro-portfolio-template/"><img src="assets/portfolio-template.jpg" alt="Developer portfolio template" /></a>
+      <h3>💻 Developer portfolio template</h3>
+      <p>A standout personal site for developers, designers and freelancers.</p>
+      <ul>
+        <li>Interactive 3D keyboard (Spline) where each key is a skill</li>
+        <li>GSAP and Framer Motion animations, light and dark themes</li>
+        <li>Projects showcase, MDX blog and contact section</li>
+        <li>Next.js, TypeScript, Tailwind CSS</li>
+      </ul>
+      <p>
+        <a href="https://cyberali-eng.github.io/gowigro-portfolio-template/"><b>▶ Live demo</b></a> ·
+        <a href="https://github.com/CyberAli-eng/gowigro-portfolio-template">Source</a> ·
+        <a href="mailto:alisabir97570@gmail.com?subject=Portfolio%20website%20template"><b>Get this template</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ Need something custom?</h3>
+      <p>Don't see your industry? We design and build websites for any business, with SEO and performance marketing to grow it.</p>
+      <p>
+        <a href="https://www.gowigro.com/services/web-development"><b>Web development services →</b></a><br/>
+        <a href="mailto:alisabir97570@gmail.com?subject=Custom%20website"><b>Email us your idea →</b></a><br/>
+        <a href="tel:+918630311908"><b>Call +91 86303 11908 →</b></a>
       </p>
     </td>
   </tr>
@@ -73,8 +100,14 @@
 [Branding](https://www.gowigro.com/services/branding) ·
 [Content creation](https://www.gowigro.com/services/content-creation)
 
+## 👤 Founder
+
+**[Ali Khusroo Bin Sabir](https://cyberali-eng.netlify.app/)**, Founder · Director &amp; Technical Officer
+AI engineer and full-stack developer. [Portfolio](https://cyberali-eng.netlify.app/) · [GitHub](https://github.com/CyberAli-eng) · [LinkedIn](https://www.linkedin.com/in/ali-khusroo-bin-sabir)
+
 ## 📬 Contact
 
 - 🌐 [gowigro.com/contact](https://www.gowigro.com/contact)
-- ✉️ [gowigro@gmail.com](mailto:gowigro@gmail.com)
+- ✉️ [alisabir97570@gmail.com](mailto:alisabir97570@gmail.com)
+- 📞 [+91 86303 11908](tel:+918630311908)
 - 💼 [LinkedIn](https://www.linkedin.com/company/g0wigr0/) · 📸 [Instagram](https://www.instagram.com/gowigro_/)
